@@ -1,8 +1,8 @@
 import basket_icon from './basket_icon.png'
-import logo1 from './logo1.png'
+import logo from './logo.png'
 import header_img from './header_img.png'
 import search_icon from './search_icon.png'
-import menu_1 from './chain2.jpg'
+import menu_1 from './menu1.jpg'
 import menu_2 from './menu_2.png'
 import menu_3 from './menu_3.png'
 import menu_4 from './menu_4.png'
@@ -63,7 +63,7 @@ import mpg1 from './mpg1.png'
 import heropn2 from './heropn2.jpg'
 
 export const assets = {
-    logo1,
+    logo,
     basket_icon,
     header_img,
     search_icon,
